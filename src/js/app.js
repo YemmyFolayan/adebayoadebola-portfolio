@@ -1,5 +1,5 @@
 const people = document.querySelectorAll(".people img");
-const reviewText = document.querySelector(".review__text");
+//const reviewText = document.querySelector(".review__text");
 const reviewerName = document.querySelector(".review__card .name");
 const reviewerWho = document.querySelector(".review__card .who");
 
